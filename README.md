@@ -45,4 +45,7 @@ This is a basic version of a supply chain management system on the blockchain. F
 
 Remember to adhere to local laws and regulations when implementing such a system, as regulations regarding the use of blockchain technology can vary by jurisdiction.
 
+## License
+AgriChain is released under the [MIT License]https://github.com/dhruv1972/AgriChain/Tamper-Proof
+
 **Note:** This is a basic implementation for demonstration purposes and should not be used as is for production. Always ensure that your contracts are properly audited and tested before deploying them on the mainnet.
